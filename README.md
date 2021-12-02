@@ -1,6 +1,6 @@
 # My Learning Tracker
 
-A complete log of my machine learning skills, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
+A complete log of my machine learning skills, resources, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
 ----
 
@@ -10,7 +10,21 @@ A complete log of my machine learning skills, resources, highlights, interests, 
 
 |               Skill              | 1<br>Introduction | 2<br>Occasional Use    | 3<br>Regular use |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
-|**React**                         | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Python**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Command line**                  | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
+|**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**GitLab**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Agile**                         | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Jira**                          | ![done][done]     | ![done][done]          | ![done][done]    |
+|**NumPy**                         | ![done][done]     | ![done][done]          |                  |
+|**Pandas**                        | ![done][done]     | ![done][done]          |                  |
+|**Shell**                         | ![done][done]     | ![done][done]          |                  |
+|**Bitbucket**                     | ![done][done]     | ![done][done]          |                  |
+|**Discrete math**                 | ![done][done]     |                        |                  |
+|**Statistics**                    | ![done][done]     |                        |                  |
+|**SQL**                           | ![done][done]     |                        |                  |
+|**Linux**                         | ![done][done]     |                        |                  |
 
 ----
 
