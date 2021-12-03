@@ -32,17 +32,34 @@ A complete log of my machine learning skills, resources, interests, and everythi
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Dec 2019   | [Getting Started With Redux]                                    | [Dan Abramov] - [egghead.io]                |
-| ![In Progress][In Progress] |            | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
-| ![Soon][Soon]               |            | Read JavaScript: The Good Parts                                 | Douglas Crockford                           |
+| ![Completed][Completed]     | Sep 2021   | Основы баз данных и SQL с нуля                                  | [Школа Программирования Сергея Бобровского] |
+| ![Completed][Completed]     | Jul 2021   | Ясный стиль                                                     | [Школа Программирования Сергея Бобровского] |
+| ![Completed][Completed]     | Jun 2021   | Как понять в программировании всё                               | [Школа Программирования Сергея Бобровского] |
+| ![Completed][Completed]     | May 2021   | Алгоритмы и структуры данных, 1 курс                            | [Школа Программирования Сергея Бобровского] |
+| ![Completed][Completed]     | Jun 2020   | [Python: основы и применение]                                   | [Bioinformatics Institute]                  |
+| ![Completed][Completed]     | Apr 2020   | [Программирование на Python]                                    | [Bioinformatics Institute]                  |
+| ![Completed][Completed]     | Mar 2020   | [Введение в Linux]                                              | [Bioinformatics Institute]                  |
+| ![Completed][Completed]     | Feb 2020   | [Введение в дискретную математику]                              | [Bioinformatics Institute]                  |
+| ![Completed][Completed]     | Sep 2019   | [Основы статистики]                                             | [Bioinformatics Institute]                  |
+| ![In Progress][In Progress] |            | [Основы статистики. Часть 2]                                    | [Bioinformatics Institute]                  |
+| ![In Progress][In Progress] |            | [Введение в математический анализ]                              | [Computer Science Center]                   |
+| ![In Progress][In Progress] |            | Алгоритмы и структуры данных, 2 курс                            | [Школа Программирования Сергея Бобровского] |
 
 [//]: # (Reference links to courses)
 
-[Getting Started With Redux]: https://egghead.io/courses/getting-started-with-redux
+[Python: основы и применение]: https://stepik.org/course/512/
+[Программирование на Python]: https://stepik.org/course/67/
+[Введение в Linux]: https://stepik.org/course/73/
+[Введение в дискретную математику]: https://stepik.org/course/902/
+[Основы статистики]: https://stepik.org/course/76/
+[Основы статистики. Часть 2]: https://stepik.org/course/524/
+[Введение в математический анализ]: https://stepik.org/course/95/
 
 [//]: # (Reference links to tutors)
 
-[Dan Abramov]: https://twitter.com/dan_abramov
+[Bioinformatics Institute]: https://bioinf.me/
+[Computer Science Center]: https://compscicenter.ru/
+[Школа Программирования Сергея Бобровского]: https://vk.com/lambda_brain
 
 ----
 
