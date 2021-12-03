@@ -77,6 +77,24 @@ A complete log of my machine learning skills, resources, interests, and everythi
 
 ----
 
+## Сompetitions
+
+[//]: # (Status images)
+
+[Completed]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Completed"
+[In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
+[Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
+
+|            Status           |   Year     | Сompetition                                                     |                Result                       |
+|:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![Completed][Completed]     |  Feb 2021  | [Rock, Paper, Scissors]                                         | Top 39%                                     |
+
+[//]: # (Reference links to competitions)
+
+[Rock, Paper, Scissors]: https://www.kaggle.com/c/rock-paper-scissors
+
+----
+
 ## Interests
 
 I'm currently interested in/excited about:
