@@ -11,6 +11,7 @@ A complete log of my machine learning skills, resources, interests, and everythi
 |               Skill              | 1<br>Introduction | 2<br>Occasional Use    | 3<br>Regular use |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
 |**Python**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Autotesting**                   | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Command line**                  | ![done][done]     | ![done][done]          | ![done][done]    |
 |**NumPy**                         | ![done][done]     | ![done][done]          |                  |
