@@ -23,7 +23,7 @@ A complete log of my machine learning skills, resources, interests, and everythi
 
 ----
 
-## Learning
+## Courses
 
 [//]: # (Status images)
 
@@ -33,34 +33,34 @@ A complete log of my machine learning skills, resources, interests, and everythi
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Sep 2021   | Основы баз данных и SQL с нуля                                  | [Школа Программирования Сергея Бобровского] |
-| ![Completed][Completed]     | Jul 2021   | Ясный стиль                                                     | [Школа Программирования Сергея Бобровского] |
-| ![Completed][Completed]     | Jun 2021   | Как понять в программировании всё                               | [Школа Программирования Сергея Бобровского] |
-| ![Completed][Completed]     | May 2021   | Алгоритмы и структуры данных, 1 курс                            | [Школа Программирования Сергея Бобровского] |
-| ![Completed][Completed]     | Jun 2020   | [Python: основы и применение]                                   | [Bioinformatics Institute]                  |
-| ![Completed][Completed]     | Apr 2020   | [Программирование на Python]                                    | [Bioinformatics Institute]                  |
-| ![Completed][Completed]     | Mar 2020   | [Введение в Linux]                                              | [Bioinformatics Institute]                  |
-| ![Completed][Completed]     | Feb 2020   | [Введение в дискретную математику]                              | [Bioinformatics Institute]                  |
-| ![Completed][Completed]     | Sep 2019   | [Основы статистики]                                             | [Bioinformatics Institute]                  |
-| ![In Progress][In Progress] |            | [Основы статистики. Часть 2]                                    | [Bioinformatics Institute]                  |
-| ![In Progress][In Progress] |            | [Введение в математический анализ]                              | [Computer Science Center]                   |
-| ![In Progress][In Progress] |            | Алгоритмы и структуры данных, 2 курс                            | [Школа Программирования Сергея Бобровского] |
+| ![Completed][Completed]     | Sep 2021   | Database and SQL fundamentals                                   | [Higher School of Programming Sergei Bobrovsky] |
+| ![Completed][Completed]     | Jul 2021   | Clear code style                                                | [Higher School of Programming Sergei Bobrovsky] |
+| ![Completed][Completed]     | Jun 2021   | Introduction to programming paradigms                           | [Higher School of Programming Sergei Bobrovsky] |
+| ![Completed][Completed]     | May 2021   | Algorithms and data structures, part 1                          | [Higher School of Programming Sergei Bobrovsky] |
+| ![Completed][Completed]     | Jun 2020   | [Python: Basics and Applications]                               | [Bioinformatics Institute]                  |
+| ![Completed][Completed]     | Apr 2020   | [Python Programming]                                            | [Bioinformatics Institute]                  |
+| ![Completed][Completed]     | Mar 2020   | [Introduction to Linux]                                         | [Bioinformatics Institute]                  |
+| ![Completed][Completed]     | Feb 2020   | [Introduction to discrete mathematics]                          | [Bioinformatics Institute]                  |
+| ![Completed][Completed]     | Sep 2019   | [Basics of statistics, part 1]                                  | [Bioinformatics Institute]                  |
+| ![In Progress][In Progress] |            | [Basics of statistics, part 2]                                  | [Bioinformatics Institute]                  |
+| ![In Progress][In Progress] |            | [Introduction to calculus]                                      | [Computer Science Center]                   |
+| ![In Progress][In Progress] |            | Algorithms and data structures, part 2                          | [Higher School of Programming Sergei Bobrovsky] |
 
 [//]: # (Reference links to courses)
 
-[Python: основы и применение]: https://stepik.org/course/512/
-[Программирование на Python]: https://stepik.org/course/67/
-[Введение в Linux]: https://stepik.org/course/73/
-[Введение в дискретную математику]: https://stepik.org/course/902/
-[Основы статистики]: https://stepik.org/course/76/
-[Основы статистики. Часть 2]: https://stepik.org/course/524/
-[Введение в математический анализ]: https://stepik.org/course/95/
+[Python: Basics and Applications]: https://stepik.org/course/512/
+[Python Programming]: https://stepik.org/course/67/
+[Introduction to Linux]: https://stepik.org/course/73/
+[Introduction to discrete mathematics]: https://stepik.org/course/902/
+[Basics of statistics, part 1]: https://stepik.org/course/76/
+[Basics of statistics, part 2]: https://stepik.org/course/524/
+[Introduction to calculus]: https://stepik.org/course/95/
 
 [//]: # (Reference links to tutors)
 
 [Bioinformatics Institute]: https://bioinf.me/
 [Computer Science Center]: https://compscicenter.ru/
-[Школа Программирования Сергея Бобровского]: https://vk.com/lambda_brain
+[Higher School of Programming Sergei Bobrovsky]: https://vk.com/lambda_brain
 
 ----
 
@@ -77,7 +77,7 @@ A complete log of my machine learning skills, resources, interests, and everythi
 
 ----
 
-## Сompetitions
+## Kaggle Сompetitions
 
 [//]: # (Status images)
 
@@ -99,12 +99,11 @@ A complete log of my machine learning skills, resources, interests, and everythi
 
 I'm currently interested in/excited about:
 
-+ React
-+ JavaScript best practice
-+ Object Oriented Programming
++ Computer science
++ Reinforcement learning
 
 ----
 
 ### License
 
-[MIT License](https://github.com/Syknapse/My-Learning-Tracker/blob/master/LICENSE)
+[MIT License](https://github.com/ZhdanovSergey/My-Learning-Tracker/blob/master/LICENSE)
