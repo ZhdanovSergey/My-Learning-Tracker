@@ -33,6 +33,7 @@ A complete log of my machine learning skills, resources, interests, and everythi
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![Completed][Completed]     | Dec 2021   | Algorithms and data structures, part 2                          | [Higher School of Programming Sergei Bobrovsky] |
 | ![Completed][Completed]     | Sep 2021   | Database and SQL fundamentals                                   | [Higher School of Programming Sergei Bobrovsky] |
 | ![Completed][Completed]     | Jul 2021   | Clear code style                                                | [Higher School of Programming Sergei Bobrovsky] |
 | ![Completed][Completed]     | Jun 2021   | Introduction to programming paradigms                           | [Higher School of Programming Sergei Bobrovsky] |
@@ -44,7 +45,6 @@ A complete log of my machine learning skills, resources, interests, and everythi
 | ![Completed][Completed]     | Sep 2019   | [Basics of statistics, part 1]                                  | [Bioinformatics Institute]                  |
 | ![In Progress][In Progress] |            | [Basics of statistics, part 2]                                  | [Bioinformatics Institute]                  |
 | ![In Progress][In Progress] |            | [Introduction to calculus]                                      | [Computer Science Center]                   |
-| ![In Progress][In Progress] |            | Algorithms and data structures, part 2                          | [Higher School of Programming Sergei Bobrovsky] |
 
 [//]: # (Reference links to courses)
 
