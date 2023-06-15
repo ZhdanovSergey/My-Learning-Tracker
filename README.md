@@ -1,6 +1,8 @@
 # My Learning Tracker
 
-A complete log of my programming skills, resources, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
+This repository is where I track my learning progress in programming.
+I document the skills that I acquire, the courses that I complete, and the books that I read.
+I use this repository as a way to reflect on my learning journey and to share it with others who might be interested.
 
 ----
 
