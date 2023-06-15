@@ -1,4 +1,18 @@
-# Блог
+# Blog
+
+## 14.06.23
+
+How learning F# changed the way I think about programming
+
+👋 Hi everyone! I recently completed a course on functional programming using F#, and I want to share my experience and thoughts about this language. F# is a universal programming language for writing succinct, robust and performant code. It is based on OCaml, and belongs to the ML family of languages. It is open source, cross-platform and interoperable with other .NET languages.
+
+👉 Here are some of the key takeaways from my learning journey:
+- Functional programming develops the ability to design programs correctly. For example, elite universities like Oxford prefer F# or Haskell as the first programming language. Learning F# helped me to structure my code better and avoid unnecessary complexity.
+- The main skill that I acquired was the ability to think recursively, step by step reducing the problem to an elementary form. Interestingly, because of the fact that when writing a recursive function you have to use it itself to write the algorithm, you always have to first understand what it should do in the end, and only then implement it. This skill improved my problem-solving abilities and made me more confident in tackling challenging tasks.
+- Thanks to the combination of pattern matching and recursion, functions in F# are very concise, easy to read and understand. Also, it is harder to make a mistake in F# code (less code - less errors 😊), because F# has a strong type system, which allows you to set such constraints that are impossible to implement in popular programming languages today. Writing concise and expressive code in F# made me appreciate the beauty and elegance of functional programming.
+- F# is not a pure functional language, it gives you the opportunity to write in an object-oriented or imperative style if necessary, which simplifies its application in real projects. Learning F# showed me how different concepts can be used to solve the same problem, and how to choose the best one for each case.
+
+🚀 Finally, I have some plans for the future in the field of programming in F#. Usually F# is not used to write projects entirely, but only separate modules that you want to make purely functional, and use this language in conjunction with other .NET languages. At the moment I am considering the possibility of learning C# and getting closer acquainted with backend development, then maybe in the future I will be able to apply F# in practice.
 
 ## 30.01.22
 
