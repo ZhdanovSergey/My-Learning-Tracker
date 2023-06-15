@@ -36,19 +36,19 @@ I use this repository as a way to reflect on my learning journey and to share it
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress] |            | Fundamentals of functional programming                          | [Higher School of Programming Sergei Bobrovsky] |
-| ![Completed][Completed]     | Jun 2023   | Functional programming course in F#                             | [Higher School of Programming Sergei Bobrovsky] |
-| ![Completed][Completed]     | Apr 2023   | Declarative programming model                                   | [Higher School of Programming Sergei Bobrovsky] |
-| ![Completed][Completed]     | Dec 2021   | Algorithms and data structures, part 2                          | [Higher School of Programming Sergei Bobrovsky] |
-| ![Completed][Completed]     | Sep 2021   | Database and SQL fundamentals                                   | [Higher School of Programming Sergei Bobrovsky] |
-| ![Completed][Completed]     | Jul 2021   | Clear code style                                                | [Higher School of Programming Sergei Bobrovsky] |
-| ![Completed][Completed]     | Jun 2021   | Introduction to programming paradigms                           | [Higher School of Programming Sergei Bobrovsky] |
-| ![Completed][Completed]     | May 2021   | Algorithms and data structures, part 1                          | [Higher School of Programming Sergei Bobrovsky] |
-| ![Completed][Completed]     | Jun 2020   | [Python: Basics and Applications]                               | [Bioinformatics Institute]                      |
-| ![Completed][Completed]     | Apr 2020   | [Python Programming]                                            | [Bioinformatics Institute]                      |
-| ![Completed][Completed]     | Mar 2020   | [Introduction to Linux]                                         | [Bioinformatics Institute]                      |
-| ![Completed][Completed]     | Feb 2020   | [Introduction to discrete mathematics]                          | [Bioinformatics Institute]                      |
-| ![Completed][Completed]     | Sep 2019   | [Basics of statistics, part 1]                                  | [Bioinformatics Institute]                      |
+| ![In Progress][In Progress] |            | Fundamentals of functional programming                          | [Sergey Bobrovsky’s Higher School of Programming] |
+| ![Completed][Completed]     | Jun 2023   | Functional programming course in F#                             | [Sergey Bobrovsky’s Higher School of Programming] |
+| ![Completed][Completed]     | Apr 2023   | Declarative programming model                                   | [Sergey Bobrovsky’s Higher School of Programming] |
+| ![Completed][Completed]     | Dec 2021   | Algorithms and data structures, part 2                          | [Sergey Bobrovsky’s Higher School of Programming] |
+| ![Completed][Completed]     | Sep 2021   | Database and SQL fundamentals                                   | [Sergey Bobrovsky’s Higher School of Programming] |
+| ![Completed][Completed]     | Jul 2021   | Clear code style                                                | [Sergey Bobrovsky’s Higher School of Programming] |
+| ![Completed][Completed]     | Jun 2021   | Introduction to programming paradigms                           | [Sergey Bobrovsky’s Higher School of Programming] |
+| ![Completed][Completed]     | May 2021   | Algorithms and data structures, part 1                          | [Sergey Bobrovsky’s Higher School of Programming] |
+| ![Completed][Completed]     | Jun 2020   | [Python: Basics and Applications]                               | [Bioinformatics Institute]                        |
+| ![Completed][Completed]     | Apr 2020   | [Python Programming]                                            | [Bioinformatics Institute]                        |
+| ![Completed][Completed]     | Mar 2020   | [Introduction to Linux]                                         | [Bioinformatics Institute]                        |
+| ![Completed][Completed]     | Feb 2020   | [Introduction to discrete mathematics]                          | [Bioinformatics Institute]                        |
+| ![Completed][Completed]     | Sep 2019   | [Basics of statistics, part 1]                                  | [Bioinformatics Institute]                        |
 
 [//]: # (Reference links to courses)
 
@@ -61,7 +61,7 @@ I use this repository as a way to reflect on my learning journey and to share it
 [//]: # (Reference links to tutors)
 
 [Bioinformatics Institute]: https://bioinf.me/
-[Higher School of Programming Sergei Bobrovsky]: https://vk.com/lambda_brain
+[Sergey Bobrovsky’s Higher School of Programming]: https://vk.com/lambda_brain
 
 ----
 
