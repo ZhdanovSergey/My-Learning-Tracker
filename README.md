@@ -34,9 +34,10 @@ I use this repository as a way to reflect on my learning journey and to share it
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-|            Status           |   Year     | Course                                                          |                Tutor                        |
-|:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress] |            | Fundamentals of functional programming                          | [Sergey Bobrovsky’s Higher School of Programming] |
+|            Status           |   Year     | Course                                                          |                Tutor                              |
+|:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------------:|
+| ![In Progress][In Progress] |            | [C# for beginner programmers]                                   | [OTUS]                                            |
+| ![Completed][Completed]     | Jun 2023   | Fundamentals of functional programming                          | [Sergey Bobrovsky’s Higher School of Programming] |
 | ![Completed][Completed]     | Jun 2023   | Functional programming course in F#                             | [Sergey Bobrovsky’s Higher School of Programming] |
 | ![Completed][Completed]     | Apr 2023   | Declarative programming model                                   | [Sergey Bobrovsky’s Higher School of Programming] |
 | ![Completed][Completed]     | Dec 2021   | Algorithms and data structures, part 2                          | [Sergey Bobrovsky’s Higher School of Programming] |
@@ -52,6 +53,7 @@ I use this repository as a way to reflect on my learning journey and to share it
 
 [//]: # (Reference links to courses)
 
+[C# for beginner programmers]: https://otus.ru/learning/online/18778/
 [Python: Basics and Applications]: https://stepik.org/course/512/
 [Python Programming]: https://stepik.org/course/67/
 [Introduction to Linux]: https://stepik.org/course/73/
@@ -60,8 +62,10 @@ I use this repository as a way to reflect on my learning journey and to share it
 
 [//]: # (Reference links to tutors)
 
-[Bioinformatics Institute]: https://bioinf.me/
+[OTUS]: https://otus.ru/
 [Sergey Bobrovsky’s Higher School of Programming]: https://vk.com/lambda_brain
+[Sergey Bobrovsky’s Higher School of Programming]: https://vk.com/lambda_brain
+[Bioinformatics Institute]: https://bioinf.me/
 
 ----
 
