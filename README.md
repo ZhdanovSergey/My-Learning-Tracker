@@ -18,6 +18,7 @@ I use this repository as a way to reflect on my learning journey and to share it
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**jQuery**                        | ![done][done]     | ![done][done]          |                  |
 |**Python**                        | ![done][done]     | ![done][done]          |                  |
+|**C#**                            | ![done][done]     |                        |                  |
 |**F#**                            | ![done][done]     |                        |                  |
 |**SQL**                           | ![done][done]     |                        |                  |
 |**Shell scripting**               | ![done][done]     |                        |                  |
@@ -36,7 +37,7 @@ I use this repository as a way to reflect on my learning journey and to share it
 
 |            Status           |   Year     | Course                                                          |                Tutor                              |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------------:|
-| ![In Progress][In Progress] |            | [C# for beginner programmers]                                   | [OTUS]                                            |
+| ![Completed][Completed]     | Jul 2023   | [C# for beginner programmers]                                   | [OTUS]                                            |
 | ![Completed][Completed]     | Jun 2023   | Fundamentals of functional programming                          | [Sergey Bobrovsky’s Higher School of Programming] |
 | ![Completed][Completed]     | Jun 2023   | Functional programming course in F#                             | [Sergey Bobrovsky’s Higher School of Programming] |
 | ![Completed][Completed]     | Apr 2023   | Declarative programming model                                   | [Sergey Bobrovsky’s Higher School of Programming] |
